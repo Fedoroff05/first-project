@@ -1,1 +1,1 @@
-1. Go to firt lesson on Git.
+1. Пройти пару тем по Git.
